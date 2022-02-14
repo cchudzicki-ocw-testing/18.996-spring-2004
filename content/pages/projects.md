@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 title: Projects
+type: CourseSection
 uid: 92226527-6116-127f-97ed-88eb71bf1418
 ---
 
