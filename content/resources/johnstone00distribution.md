@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: johnstone00distribution.pdf
-type: OCWFile
 uid: ec6b92dc-d47e-bbb3-d443-0d85c83eeaea
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: pastur.pdf
-type: OCWFile
 uid: b6e8ecd2-f257-8288-4832-2141a964c6cc
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: randomviciouswalks.pdf
-type: OCWFile
 uid: cafe18f1-f09c-650c-c1a0-6c8536591035
 ---

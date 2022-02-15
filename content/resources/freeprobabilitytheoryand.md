@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: freeprobabilitytheoryand.pdf
-type: OCWFile
 uid: 514e75be-8b8b-9878-e56b-d461ad8a3c2f
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: OCBoundsTC0203.pdf
-type: OCWFile
 uid: 624ac1fd-9a80-4061-afa4-c6aa12a469d1
 ---

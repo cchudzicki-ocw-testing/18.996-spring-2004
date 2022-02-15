@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: jacobian2by2.pdf
-type: OCWFile
 uid: 2b7145ef-cda0-c357-5006-b63814358991
 ---

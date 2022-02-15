@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: cisfinal1192.pdf
-type: OCWFile
 uid: 6ef845bc-6581-ede5-4565-05426388ae86
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: diabl.pdf
-type: OCWFile
 uid: ab1dfee2-3b85-1fc5-b17d-828c6fba3b3a
 ---

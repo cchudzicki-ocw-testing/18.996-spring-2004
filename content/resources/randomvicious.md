@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: randomvicious.pdf
-type: OCWFile
 uid: 7dfba919-419d-e1ae-4d6e-d0782bca48dd
 ---

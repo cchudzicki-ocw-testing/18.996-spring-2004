@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: inference.pdf
-type: OCWFile
 uid: be6865fd-cfef-4deb-94eb-1d1ea166438c
 ---

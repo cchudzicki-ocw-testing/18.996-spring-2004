@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: complex_tridiag.pdf
-type: OCWFile
 uid: a6d8555f-a517-0f8d-a69c-02bef8a29c3d
 ---

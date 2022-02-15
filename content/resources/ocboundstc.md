@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: ocboundstc.pdf
-type: OCWFile
 uid: a54b84c9-1f46-e83b-515c-961f2a47cd04
 ---

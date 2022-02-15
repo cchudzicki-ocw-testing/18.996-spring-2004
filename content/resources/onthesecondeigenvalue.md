@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: onthesecondeigenvalue.pdf
-type: OCWFile
 uid: 9e9aa00f-bf87-275a-55ce-eefbced16d9c
 ---

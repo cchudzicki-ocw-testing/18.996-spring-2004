@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: maamathfest2002.pdf
-type: OCWFile
 uid: e43a3875-46ff-f4ca-099c-82f60a06eefd
 ---

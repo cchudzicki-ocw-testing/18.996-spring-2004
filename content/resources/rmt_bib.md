@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: rmt_bib.pdf
-type: OCWFile
 uid: 70d6ee4b-11d5-1701-384d-a07d32e0cc22
 ---

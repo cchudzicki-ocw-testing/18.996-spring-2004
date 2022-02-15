@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: telatar_capacity.pdf
-type: OCWFile
 uid: 1738feb8-2c3c-5193-7590-ab882fc69473
 ---

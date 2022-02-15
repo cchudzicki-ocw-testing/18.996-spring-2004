@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: thesis.pdf
-type: OCWFile
 uid: 0c403731-899b-10ef-7d40-aa796787dfa7
 ---

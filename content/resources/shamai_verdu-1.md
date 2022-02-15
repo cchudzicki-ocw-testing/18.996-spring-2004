@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: shamai_verdu.pdf
-type: OCWFile
 uid: d5a6d711-cc66-990d-6922-1f2805e3c458
 ---

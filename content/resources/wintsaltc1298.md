@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: WintSalTC1298.pdf
-type: OCWFile
 uid: 3d9e4c1c-6367-7cfa-ad06-64fab84e6aa5
 ---

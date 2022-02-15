@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: rmt.pdf
-type: OCWFile
 uid: 42135312-1c97-fadb-6adb-a1ec9a79d4c9
 ---

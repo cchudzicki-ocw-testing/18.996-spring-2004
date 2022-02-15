@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: pastur.pdf
-type: OCWFile
 uid: a9e43f3c-0b90-626f-118f-2dd639c0986b
 ---

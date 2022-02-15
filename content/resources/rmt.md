@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: rmt.pdf
-type: OCWFile
 uid: 94dc8651-3944-0a0b-6a82-06bd2f6a3457
 ---

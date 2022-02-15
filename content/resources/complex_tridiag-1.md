@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: complex_tridiag.pdf
-type: OCWFile
 uid: 0636aefa-af5d-a94a-1674-f57b2bd473f9
 ---

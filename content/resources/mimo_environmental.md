@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: mimo_environmental.pdf
-type: OCWFile
 uid: 2ac4db81-9ca8-118b-17f9-05a5c35a69e2
 ---

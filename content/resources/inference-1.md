@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: inference.pdf
-type: OCWFile
 uid: f757deb0-8efe-1509-807a-b43fc46ff727
 ---

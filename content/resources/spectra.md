@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: spectra.pdf
-type: OCWFile
 uid: 7c2fa938-6c84-e5b0-1515-4e1bed65d01f
 ---

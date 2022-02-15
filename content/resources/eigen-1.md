@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: eigen.pdf
-type: OCWFile
 uid: 5eb3d3c0-eb0c-44b6-5936-bbc06087df1e
 ---

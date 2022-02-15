@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: scaglione_capacity.pdf
-type: OCWFile
 uid: e6cc2bc5-5869-e055-c987-a3a19fa306cd
 ---

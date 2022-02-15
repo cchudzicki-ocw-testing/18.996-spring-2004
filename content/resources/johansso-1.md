@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: johansso.pdf
-type: OCWFile
 uid: 62c2883e-8221-7b09-d765-8d0265280cac
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: eigen.pdf
-type: OCWFile
 uid: e7c753e9-846a-b359-8c22-a6dd70012cfc
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: free.pdf
-type: OCWFile
 uid: 01036c88-f72e-f357-8432-9b13de788041
 ---

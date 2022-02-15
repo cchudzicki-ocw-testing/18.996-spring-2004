@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: telatar_capacity.pdf
-type: OCWFile
 uid: eea087f7-39fc-da70-b30e-e8808d480612
 ---

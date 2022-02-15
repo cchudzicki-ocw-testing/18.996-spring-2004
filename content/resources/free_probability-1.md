@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: free_probability.pdf
-type: OCWFile
 uid: fc033d0d-75cb-1bd5-ae6a-f20eef3079fc
 ---

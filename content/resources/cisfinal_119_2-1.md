@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: cisfinal_119_2.pdf
-type: OCWFile
 uid: da4e9880-ad39-2962-9bcc-481b8ba8587d
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: spacings.pdf
-type: OCWFile
 uid: 06d1e09d-b22c-5fbd-576d-862a32747807
 ---

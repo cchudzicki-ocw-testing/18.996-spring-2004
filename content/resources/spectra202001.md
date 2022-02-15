@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: Spectra202001.pdf
-type: OCWFile
 uid: 3ff1f66a-476f-2403-20ab-0ac53e02f942
 ---

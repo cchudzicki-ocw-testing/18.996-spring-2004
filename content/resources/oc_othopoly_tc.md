@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: oc_othopoly_tc.pdf
-type: OCWFile
 uid: 3a0d5a7f-e6f5-1ba4-2802-2500c7d1756a
 ---

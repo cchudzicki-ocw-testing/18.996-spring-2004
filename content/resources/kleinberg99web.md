@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: kleinberg99web.pdf
-type: OCWFile
 uid: c8b80922-13e3-858e-9bbd-6cdf1b65467e
 ---

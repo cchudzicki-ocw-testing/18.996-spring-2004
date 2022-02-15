@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: free.pdf
-type: OCWFile
 uid: 35bc49d2-6c95-c2e6-d597-bdb3a950801c
 ---

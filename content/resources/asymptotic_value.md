@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: asymptotic_value.pdf
-type: OCWFile
 uid: 8409c194-90bd-45f8-0df7-9f72496dfe40
 ---

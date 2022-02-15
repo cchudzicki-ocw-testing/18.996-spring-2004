@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: science_3.pdf
-type: OCWFile
 uid: 4fd36598-f0cb-221a-83fb-9b531dbe03e6
 ---

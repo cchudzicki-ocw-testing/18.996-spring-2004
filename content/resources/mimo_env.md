@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: mimo_env.pdf
-type: OCWFile
 uid: 9ae38d57-4f60-2133-eada-65c04098c933
 ---

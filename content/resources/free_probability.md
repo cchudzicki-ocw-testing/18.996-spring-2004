@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: free_probability.pdf
-type: OCWFile
 uid: 3ff9c041-0441-5cb4-9dc7-e392a0b2a381
 ---

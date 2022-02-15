@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: asymptoticeigenvaluemomentsfor.pdf
-type: OCWFile
 uid: 1a73d04c-3b05-bb47-9634-524a2537d891
 ---

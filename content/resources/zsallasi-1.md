@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: zsallasi.pdf
-type: OCWFile
 uid: fedf83f0-1f05-b4b5-8575-1fb191c647df
 ---

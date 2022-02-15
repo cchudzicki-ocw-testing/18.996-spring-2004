@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: zsallasi.pdf
-type: OCWFile
 uid: a8d977ad-6d14-4dc2-c118-744d07e02132
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: corr_mimo_cap_it.pdf
-type: OCWFile
 uid: e89fc8b0-b8f8-e6d1-a3bd-fd9c58104991
 ---

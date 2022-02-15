@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: wintsaltc.pdf
-type: OCWFile
 uid: 0ea09002-67b4-2263-80eb-dd232920b0b6
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: mimo_env.pdf
-type: OCWFile
 uid: 90d5620f-bc45-2ab6-df5e-e4c9eff34476
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: numrand_talk2.pdf
-type: OCWFile
 uid: 666ec740-5b16-61fe-602d-2cef2c190741
 ---

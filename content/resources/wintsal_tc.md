@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: wintsal_tc.pdf
-type: OCWFile
 uid: 0791574b-d66d-763e-89d3-c6572616d996
 ---

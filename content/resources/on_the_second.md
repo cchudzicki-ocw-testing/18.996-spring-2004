@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: on_the_second.pdf
-type: OCWFile
 uid: fb421b55-e8bc-f948-bc11-7632ce37abc9
 ---

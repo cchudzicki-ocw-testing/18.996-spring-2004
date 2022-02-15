@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: laplacian.pdf
-type: OCWFile
 uid: cac64989-5839-f9eb-7b9f-202a544776a3
 ---

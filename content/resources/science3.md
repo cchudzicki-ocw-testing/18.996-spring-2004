@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: science3.pdf
-type: OCWFile
 uid: 4179fa5a-0fb4-d596-9ce7-a0a9fc69ce4a
 ---

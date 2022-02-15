@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: scag_capacity.pdf
-type: OCWFile
 uid: ee8a6d0c-5242-a039-c2bb-9132a37ba716
 ---

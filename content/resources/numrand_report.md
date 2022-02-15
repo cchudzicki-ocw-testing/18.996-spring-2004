@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: numrand_report.pdf
-type: OCWFile
 uid: 873a37f6-bcc7-112d-b33d-684dbb62de08
 ---

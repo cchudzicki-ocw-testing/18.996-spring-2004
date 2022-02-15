@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: shamai_verdu.pdf
-type: OCWFile
 uid: 80d40a67-54bf-1671-3d18-890c3a445028
 ---

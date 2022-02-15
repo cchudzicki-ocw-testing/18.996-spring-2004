@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: spacings.pdf
-type: OCWFile
 uid: 2d9e7294-1356-77bf-66da-ab2939532b91
 ---
