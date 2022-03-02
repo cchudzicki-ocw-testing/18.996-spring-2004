@@ -29,8 +29,8 @@ Sample Project
 
 Numerical Methods for Random Matrices by Per-Olof Persson. MIT 18.325: Random Matrices, Fall 2002
 
-Report ({{< resource_link 873a37f6-bcc7-112d-b33d-684dbb62de08 "PDF" >}}) (Courtesy of Per-Olof Persson. Used with permission.)
+Report ({{% resource_link 873a37f6-bcc7-112d-b33d-684dbb62de08 "PDF" %}}) (Courtesy of Per-Olof Persson. Used with permission.)
 
-Slides 1 ({{< resource_link f413570d-3b8e-71bf-4346-a3af6e0419ab "PDF" >}}) (Courtesy of Per-Olof Persson. Used with permission.)
+Slides 1 ({{% resource_link f413570d-3b8e-71bf-4346-a3af6e0419ab "PDF" %}}) (Courtesy of Per-Olof Persson. Used with permission.)
 
-Slides 2 ({{< resource_link 666ec740-5b16-61fe-602d-2cef2c190741 "PDF" >}}) (Courtesy of Per-Olof Persson. Used with permission.)
+Slides 2 ({{% resource_link 666ec740-5b16-61fe-602d-2cef2c190741 "PDF" %}}) (Courtesy of Per-Olof Persson. Used with permission.)
