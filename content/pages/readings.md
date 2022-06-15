@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Readings and applets presented to the students during class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
